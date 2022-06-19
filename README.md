@@ -6,7 +6,7 @@ Para isso, pessoas são convidadas para aprender ou compartilhar seus conhecimen
 
 As pessoas convidadas a parear podem ser escolhidas do circulo de convivência dos mantenedores ou podem ser aquelas que se apresentarem como interessadas em ajudar outras pessoas.
 
-Caso queira participar desse experiemento social, voce apenas precisa se manifestar em um dos meus canais de [comunicação](https://linktr.ee/biosbug) e concordar com as instruções a seguir.
+Caso queira participar desse experiemento social, voce apenas precisa se manifestar através das redes sociais do perfil [biosbug](https://linktr.ee/biosbug).
 
 
 ## Conduta
@@ -35,6 +35,7 @@ Caso queira participar desse experiemento social, voce apenas precisa se manifes
 - A comunicação poderá ser com o compartilhamento do VScode, Discord, Meeting, Slack ou qulaquer outra ferramenta que voce queira nos apresentar.
 - _**Usaremos as ferramentas em ambiente com Docker.**_
 - _**Você poderá participar sem abrir a camêra.**_
+- As transmissões serão realizadas via [Twitch do Biosbug](https://www.twitch.com/biosbug)
 
 ## Como preparar seu computador para aprender online.
 - Seu sistema operacional precisa ser Linux preferencialmente.
