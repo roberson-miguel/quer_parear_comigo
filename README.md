@@ -17,7 +17,6 @@ Caso queira participar desse experiemento social, voce apenas precisa se manifes
 - Comunicação
 - Simplicidade
 - Feedback
-- Coragem
 
 
 ## Objetivo
@@ -27,19 +26,20 @@ Caso queira participar desse experiemento social, voce apenas precisa se manifes
 
 
 ## Requisitos para parear online:
-- Ter vontade de ensinar
-- Possuir perfil publico nas redes sociais, em especial no twitter.
+- Ter vontade para compartilhar conteúdo.
+- Possuir perfil público nas redes sociais, para as pessoas tirarem dúvidas.
 - Conhecer minimamente Ruby ou tópico que deseja abordar.
-- O pareamento devera acontecer no ambiente com sistema operacional Linux, de preferência UBUNTU.
-- Você poderá usar o editor de código de sua preferência e podemos discutir sobre isso.
-- Para nossa comunicação poderemos usar o compartilhamento do VScode, Discord, Meeting, Slack ou nos apresente algo novo.
+- As instruções devem ser pensadas para mmbiente com sistema operacional Linux, de preferêncialmente UBUNTU.
+- **Setup da máquina** do aprendiz não é considerado perca de tempo, é uma necessidade.
+- Você poderá usar o editor de código de sua preferência e explicar sua preferência faz parte da troca de conhecimentos.
+- A comunicação poderá ser com o compartilhamento do VScode, Discord, Meeting, Slack ou qulaquer outra ferramenta que voce queira nos apresentar.
 - _**Usaremos as ferramentas em ambiente com Docker.**_
 - _**Você poderá participar sem abrir a camêra.**_
 
 ## Como preparar seu computador para aprender online.
 - Seu sistema operacional precisa ser Linux preferencialmente.
-- Se for Windows voce precisa instalar o [WSL](https://docs.microsoft.com/pt-br/windows/wsl/install).
-- Assista essa playlist no Youtube que poderá te ajudar nos primeiros passos.https://bit.ly/primeiros_passos_youtube.
+- Se for Windows voce precisa instalar o [WSL](https://docs.microsoft.com/pt-br/windows/wsl/install)
+- Assista nossa playlist no Youtube que poderá te ajudar nos primeiros passos.https://bit.ly/primeiros_passos_youtube
 - Rodar esse [script](https://github.com/roberson-miguel/rails-docker/issues/2) ou ter o Docker préviamente instalado.
 
 
